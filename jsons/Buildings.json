@@ -3,12 +3,11 @@
 		"name": "War Weariness Value",
 		"isNationalWonder": true,
 		"cost": 1,
-		"replacementTextForUniques": "",
+		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Can be purchased for [0] [Gold] [in capital] <hidden from users>",
 			"Consumes [1] [War Weariness]",
-			"Destroyed when the city is captured",
 			"Unsellable",
 			"Unbuildable",
 			"Remove [War Weariness Value] [in this city]",
