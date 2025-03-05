@@ -5,9 +5,9 @@
 		"requiredResource": "War Weariness",
 		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
-			/*"Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+			"Can be purchased for [0] [Gold] [in capital] <hidden from users>",
 			"Unsellable",
-			"Unbuildable",*/
+			"Unbuildable",
 			"Remove [War Weariness Value] [in all cities]"
             ]
 	},
