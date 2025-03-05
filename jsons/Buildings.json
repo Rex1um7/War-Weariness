@@ -3,7 +3,7 @@
 		"name": "War Weariness Value",
     "requiredResource": "War Weariness", 
 		"uniques": [
-			"Unbuildable",
+			"Can only be built",
 			"Cannot be hurried",
 			"Will not be displayed in Civilopedia",
             ]
