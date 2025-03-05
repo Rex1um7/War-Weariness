@@ -2,7 +2,15 @@
             "name": "Global uniques",   
             "uniques": [
                     "Gain a free [War Weariness Value] [in Capital]",
-                        "Provides [1] [War Weariness] <upon declaring war with a major Civilization>",
-                        "Provides [-1] [War Weariness]",
+                        // Here is based on Civilization VI 'Formal War' amount
+                        "Provides [200] [War Weariness] <upon declaring war with a major Civilization>",
+                        "Provides [100] [War Weariness] <upon conquering a city>",
+                        "Provides [-30] [War Weariness] <every [1] turns> <when not at war>",
+                        // Military units 
+                        "[Military] units gain the [WWV] promotion",
+                        "Provides [5] [War Weariness] <upon being defeated> <in [your] tiles>",
+                        "Provides [-3] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
+                        "Provides [-5] [War Weariness] <upon defeating a [Military] unit> <in [Enemy] tiles>",
+                        
             ]
 }
