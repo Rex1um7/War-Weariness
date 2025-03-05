@@ -1,7 +1,7 @@
 [
 	{
 		"name": "War Weariness Value",
-		"cost": -1,
+		"cost": 1,
 		"requiredResource": "War Weariness",
 		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
