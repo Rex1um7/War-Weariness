@@ -2,7 +2,6 @@
 	{
 		"name": "War Weariness Value",
 		"cost": 1,
-		"requiredResource": "War Weariness",
 		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
 			"Consumes [-25] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
