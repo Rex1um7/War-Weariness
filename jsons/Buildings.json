@@ -3,10 +3,10 @@
 		"name": "War Weariness Value",
 		"isNationalWonder": true,
 		"cost": 1,
+		"requiredResource": "War Weariness",
 		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
 			"Can be purchased for [0] [Gold] [in capital] <hidden from users>",
-			"Consumes [1] [War Weariness]",
 			"Unsellable",
 			"Unbuildable",
 			"Remove [War Weariness Value] [in this city]",
