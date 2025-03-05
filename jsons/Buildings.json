@@ -5,7 +5,6 @@
 		"cost": 1,
 		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
-			"Will not be displayed in Civilopedia",
 			"Can be purchased for [0] [Gold] [in capital] <hidden from users>",
 			"Consumes [1] [War Weariness]",
 			"Unsellable",
