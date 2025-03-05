@@ -2,9 +2,11 @@
 	{
 		"name": "War Weariness Value",
     "requiredResource": "War Weariness", 
+		"cost": 1,
 		"uniques": [
 			"Can only be built",
 			"Cannot be hurried",
+			"Remove [War Weariness Value] [in this city]",
 			"Will not be displayed in Civilopedia",
             ]
 	},
