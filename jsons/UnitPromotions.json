@@ -2,6 +2,7 @@
 	{
 		"name": "WWV",
 		"uniques": [
+			"Will not be displayed in Civilopedia",
       "Provides [5] [War Weariness] <upon being defeated> <in [your] tiles>",
 			"Provides [3] [War Weariness] <upon being defeated> <in [Enemy] tiles>",
                         "Provides [-3] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
