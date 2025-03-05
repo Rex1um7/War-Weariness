@@ -5,8 +5,7 @@
 		"requiredResource": "War Weariness",
 		"replacementTextForUniques": "Check how high is war weariness value",
 		"uniques": [
-			"Unsellable",
-			
+			"Instantly gain [-25] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war> <for [All] Civilizations>",
             ]
 	},
 ]
