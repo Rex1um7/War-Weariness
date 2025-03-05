@@ -1,1 +1,13 @@
-
+[
+	// Bonus resources
+	{
+		"name": "War Weariness",
+		"resourceType": "Strategic",
+		"uniques": [
+                        "Stockpiled",
+                      "Excluded from map editor",
+                        "Will not be displayed in Civilopedia",
+                        "Cannot be traded",
+            ]
+	},
+]
