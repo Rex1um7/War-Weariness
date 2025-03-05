@@ -2,11 +2,35 @@
             "name": "Global uniques",   
             "uniques": [
                     "Gain a free [War Weariness Value] [in Capital]",
-                        // Here is based on Civilization VI 'Formal War' amount
-                        "Provides [200] [War Weariness] <upon declaring war with a major Civilization>",
-                        "Provides [100] [War Weariness] <upon conquering a city>",
-                        "Provides [-30] [War Weariness] <every [1] turns> <when not at war>",
+                        // War 
+                        "Provides [150] [War Weariness] <upon declaring war with a major Civilization>",
+                        "Provides [75] [War Weariness] <upon conquering a city>",
+                        "Provides [-25] [War Weariness] <every [1] turns> <when not at war>",
                         // Military units 
                         "[Military] units gain the [WWV] promotion",
+                        // Effect
+                        // I
+                        "[-10]% [Production] <when above [500] [War Weariness]>",
+                        "[-10]% growth [in all cities] <when above [500] [War Weariness]>",
+                        "Rebel units may spawn <every [10] turns> <when between [500] and [750] [War Weariness]>",
+                        "[+5]% Unhappiness from [Population] [in all cities] <when above [500] [War Weariness]>",
+                        // II
+                        "[-10]% [Production] <when above [750] [War Weariness]>",
+                        "[-10]% growth [in all cities] <when above [750] [War Weariness]>",
+                        "Rebel units may spawn <every [7] turns> <when between [750] and [1500] [War Weariness]>",
+                        "[-5]% Strength <when above [750] [War Weariness]>",
+                        "[+5]% Unhappiness from [Population] [in all cities] <when above [500] [War Weariness]>",
+                        // III
+                        "[-15]% [Production] <when above [1500] [War Weariness]>",
+                        "[-20]% growth [in all cities] <when above [1500] [War Weariness]>",
+                        "Rebel units may spawn <every [4] turns> <when between [1500] and [2000] [War Weariness]>",
+                        "[-10]% Strength <when above [1500] [War Weariness]>",
+                        "[+10]% Unhappiness from [Population] [in all cities] <when above [1500] [War Weariness]>",
+                        // IV
+                        "[-15]% [Production] <when above [2000] [War Weariness]>",
+                        "Nullifies Growth [in all cities] <when above [2000] [War Weariness]>",
+                        "Rebel units may spawn <every [1] turns> <when above [2000] [War Weariness]>",
+                        "[-15]% Strength <when above [2000] [War Weariness]>",
+                        "[+10]% Unhappiness from [Population] [in all cities] <when above [2000] [War Weariness]>",
             ]
 }
