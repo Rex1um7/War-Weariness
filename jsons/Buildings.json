@@ -2,14 +2,12 @@
 	{
 		"name": "War Weariness Value",
 		"isNationalWonder": true,
-    "requiredResource": "War Weariness", 
 		"cost": 1,
 		"replacementTextForUniques": "",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
-			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
+			"Consumes [1] [War Weariness]",
 			"Destroyed when the city is captured",
 			"Unsellable",
 			"Unbuildable",
