@@ -4,6 +4,7 @@
     "requiredResource": "War Weariness", 
 		"uniques": [
 			"Unbuildable",
+			"Cannot be hurried",
 			"Will not be displayed in Civilopedia",
             ]
 	},
