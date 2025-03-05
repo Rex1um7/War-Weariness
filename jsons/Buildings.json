@@ -1,0 +1,10 @@
+[
+	{
+		"name": "War Weariness Value",
+    "requiredResource": "War Weariness", 
+		"uniques": [
+              "Unbuildable",
+              "Cannot be purchased",
+            ]
+	},
+]
