@@ -7,7 +7,7 @@
 		"uniques": [
 			"Can be purchased for [0] [Gold] [in capital] <hidden from users>",
 			"Unsellable",
-			"Remove [War Weariness Value] [in this city]",
+			"Unbuildable",
             ]
 	},
 ]
