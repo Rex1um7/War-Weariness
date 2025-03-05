@@ -1,6 +1,7 @@
 [
 	{
 		"name": "War Weariness Value",
+		"isNationalWonder": true,
     "requiredResource": "War Weariness", 
 		"cost": 1,
 		"uniques": [
