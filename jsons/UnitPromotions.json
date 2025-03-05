@@ -5,8 +5,8 @@
 			"Will not be displayed in Civilopedia",
       "Instantly provides [5] [War Weariness] <upon being defeated> <in [your] tiles>",
 			"Instantly provides [3] [War Weariness] <upon being defeated> <in [Enemy] tiles>",
-                        "Instantly provides [-3] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
-                        "Instantly provides [-3] [War Weariness] <upon defeating a [Military] unit> <in [Enemy] tiles>",
+                        "Instantly consumes [3] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
+                        "Instantly consumes [3] [War Weariness] <upon defeating a [Military] unit> <in [Enemy] tiles>",
     ],
     },
 ]
