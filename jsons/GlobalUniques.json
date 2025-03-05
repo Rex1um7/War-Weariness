@@ -2,9 +2,9 @@
             "name": "Global uniques",   
             "uniques": [
                         // War 
-                        /*"Instantly provides [150] [War Weariness] <upon declaring war with a major Civilization> <for [All] Civilizations>",
+                        "Instantly provides [150] [War Weariness] <upon declaring war with a major Civilization> <for [All] Civilizations>",
                         "Instantly provides [75] [War Weariness] <upon conquering a city> <for [All] Civilizations>",
-                        "Instantly consumes [25] [War Weariness] <every [1] turns> <when not at war> <for [All] Civilizations>",*/
+                        "Instantly consumes [25] [War Weariness] <every [1] turns> <when not at war> <for [All] Civilizations>",
                         // Military units 
                         "[Military] units gain the [WWV] promotion",
                         // Effect
