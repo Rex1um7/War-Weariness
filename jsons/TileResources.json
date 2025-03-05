@@ -2,7 +2,7 @@
 	// Bonus resources
 	{
 		"name": "War Weariness",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 		"uniques": [
                       "Excluded from map editor",
 			"Stockpiled",
