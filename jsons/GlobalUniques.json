@@ -16,7 +16,7 @@
                         "[-10]% [Production] <when above [750] [War Weariness]>",
                         "[-10]% growth [in all cities] <when above [750] [War Weariness]>",
                         "Rebel units may spawn <every [7] turns> <when between [750] and [1500] [War Weariness]>",
-                        "[-5]% Strength <when above [750] [War Weariness]>",
+                        "[-10]% Strength <when above [750] [War Weariness]>",
                         "[+5]% Unhappiness from [Population] [in all cities] <when above [500] [War Weariness]>",
                         // III
                         "[-15]% [Production] <when above [1500] [War Weariness]>",
