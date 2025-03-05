@@ -5,6 +5,7 @@
 		"uniques": [
               "Unbuildable",
               "Cannot be purchased",
+			"Will not be displayed in Civilopedia",
             ]
 	},
 ]
