@@ -1,7 +1,6 @@
 [
 	{
 		"name": "War Weariness Value",
-		"isNationalWonder": true,
 		"cost": 1,
 		"requiredResource": "War Weariness",
 		"replacementTextForUniques": "Check how high is war weariness value",
