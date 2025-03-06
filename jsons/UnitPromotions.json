@@ -2,9 +2,9 @@
 	{
 		"name": "WWV",
 		"uniques": [
-     "Instantly provides [6] [War Weariness] <upon being defeated> <in [your] tiles>",
+     "Instantly provides [4] [War Weariness] <upon being defeated> <in [your] tiles>",
 			"Instantly provides [10] [War Weariness] <upon being defeated> <in [Enemy] tiles>",
-			"Instantly provides [100] [War Weariness] <upon conquering a city>",
+			"Instantly provides [125] [War Weariness] <upon conquering a city>",
                       "Instantly consumes [8] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
                        "Instantly consumes [4] [War Weariness] <upon defeating a [Military] unit> <in [Enemy] tiles>",
     ],
