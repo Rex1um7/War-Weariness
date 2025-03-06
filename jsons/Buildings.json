@@ -1,7 +1,7 @@
 [
 	{
 		"name": "War Weariness Value",
-		"replacementTextForUniques": "Check how high is war weariness value",
+		"replacementTextForUniques": "Greatly decrease War Weariness when not at war",
 		"uniques": [
 			"Consumes [20] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
 			"Consumes [100] [War Weariness] <when above [500] [War Weariness]> <every [1] turns> <for [3] turns> <when not at war>",
@@ -13,7 +13,7 @@
 		"name": "War Memorial",
 		"cost": 1,
 		"maintenance": 2,
-		"replacementTextForUniques": "Check how high is war weariness value",
+		"replacementTextForUniques": "Slightly decrease War Weariness when not at war",
 		"uniques": [
 			"Consumes [5] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
 			"Limited to [6] per Civilization",
