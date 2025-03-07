@@ -7,5 +7,6 @@
 			"Instantly provides [125] [War Weariness] <upon conquering a city> <when at war>",
                       "Instantly consumes [8] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
                        "Instantly consumes [4] [War Weariness] <upon defeating a [Military] unit> <in [Foreign Land] tiles> <when at war>",
+		]
     },
 ]
