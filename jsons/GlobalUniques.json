@@ -5,7 +5,7 @@
                         // War 
                         "Instantly provides [200] [War Weariness] <upon declaring war with a major Civilization> <for [All] Civilizations>",
                         // Military units 
-                        "[Military] units gain the [WWV] promotion",
+                        "[Military] units gain the [WWV] promotion <for [All] Civilizations>",
                         // Effect
                         // I
                         "[-10]% [Production] <when above [500] [War Weariness]>",
