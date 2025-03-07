@@ -1,6 +1,7 @@
 [
 	{
 		"name": "War Weariness Value",
+		"cost": 1,
 		"replacementTextForUniques": "Greatly decrease War Weariness when not at war",
 		"uniques": [
 			"Consumes [20] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
