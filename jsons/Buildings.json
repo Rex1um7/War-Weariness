@@ -10,16 +10,17 @@
 			"Can only be built <in [Capital] cities>",
             ]
 	},
-	// 
 	{
 		"name": "War Memorial",
 		"cost": 1,
-		"maintenance": 2,
+		"hurryCostModifier": 1,
+		"maintenance": 3,
 		"uniques": [
 			"Consumes [5] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
 			"Limited to [6] per Civilization",
 			"Destroyed when the city is captured",
-			"Only available <in [Annexed] cities>",
-            ]
+			"Can only be built <in [Annexed] cities>",
+            ],
+		"requiredTech": "Agriculture"
 	},
 ]
