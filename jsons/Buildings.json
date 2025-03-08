@@ -15,7 +15,6 @@
 		"name": "War Memorial",
 		"cost": 1,
 		"maintenance": 2,
-		"replacementTextForUniques": "Slightly decrease War Weariness when not at war",
 		"uniques": [
 			"Consumes [5] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
 			"Limited to [6] per Civilization",
