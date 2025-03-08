@@ -6,8 +6,8 @@ repeat: none
 ResourceIcons/War Weariness
   rotate: false
   xy: 0, 0
-  size: 700, 602
-  orig: 700, 602
+  size: 539, 463
+  orig: 539, 463
   offset: 0, 0
   index: -1
 
