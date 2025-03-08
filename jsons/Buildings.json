@@ -6,6 +6,7 @@
 		"uniques": [
 			"Consumes [20] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
 			"Consumes [100] [War Weariness] <when above [500] [War Weariness]> <every [1] turns> <for [3] turns> <when not at war>",
+			"Destroyed when the city is captured",
 			"Can only be built <in [Capital] cities>",
             ]
 	},
