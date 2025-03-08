@@ -1,3 +1,3 @@
 # War-Weariness
-[Icon]:
+[Icon]:/n
 War Weariness: https://thenounproject.com/icon/protest-15242/
