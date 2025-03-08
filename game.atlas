@@ -1,1 +1,13 @@
+War Weariness.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/War Weariness
+  rotate: false
+  xy: 2, 2
+  size: 700, 602
+  orig: 700, 602
+  offset: 0, 0
+  index: -1
 
