@@ -8,17 +8,17 @@
 			"Consumes [20] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
 			"Consumes [100] [War Weariness] <when above [500] [War Weariness]> <every [1] turns> <for [3] turns> <when not at war>",
 			// Declaring War 
-                        "Instantly provides [250] [War Weariness] <upon declaring war with a major Civilization> <for [All] Civilizations>",
+                        "Instantly provides [250] [War Weariness] <upon declaring war with a major Civilization>",
                         // At War
 			"Instantly provides [50] [War Weariness] <when at war> <for [100] turns> <for [All] Civilizations>", // long-term war effect
                         "Instantly consumes [50] [War Weariness] <when at war> <for [15] turns> <for [All] Civilizations>", // First 15 turns at war will not affected by long-term war effect
-                        // Friendship
-                        "Instantly consumes [25] [War Weariness] <upon declaring friendship> <when not at war> <for [1] turns> <for [All] Civilizations>",
-                        "Instantly consumes [20] [War Weariness] <upon declaring friendship> <when not at war> <for [2] turns> <for [All] Civilizations>",
-                        "Instantly consumes [15] [War Weariness] <upon declaring friendship> <when not at war> <for [3] turns> <for [All] Civilizations>",
-                        "Instantly consumes [10] [War Weariness] <upon declaring friendship> <when not at war> <for [4] turns> <for [All] Civilizations>",
-                        "Instantly consumes [5] [War Weariness] <upon declaring friendship> <when not at war> <for [5] turns> <for [All] Civilizations>",
-                        "Instantly consumes [300] [War Weariness] <upon declaring a defensive pact> <when not at war> <for [All] Civilizations>",
+                        // Friendship 
+                        "Instantly consumes [25] [War Weariness] <upon declaring friendship> <when not at war> <for [1] turns>",
+                        "Instantly consumes [20] [War Weariness] <upon declaring friendship> <when not at war> <for [2] turns>",
+                        "Instantly consumes [15] [War Weariness] <upon declaring friendship> <when not at war> <for [3] turns>",
+                        "Instantly consumes [10] [War Weariness] <upon declaring friendship> <when not at war> <for [4] turns>",
+                        "Instantly consumes [5] [War Weariness] <upon declaring friendship> <when not at war> <for [5] turns>",
+                        "Instantly consumes [300] [War Weariness] <upon declaring a defensive pact> <when not at war>",
 			"Destroyed when the city is captured",
 			"Moves to new capital when capital changes",
 			"Can only be built <in [Capital] cities>",
@@ -26,15 +26,12 @@
 	},
 	{
 		"name": "War Memorial",
-		"cost": 1,
-		"hurryCostModifier": 1,
+		"hurryCostModifier": 50,		// same as courthouse 
 		"maintenance": 3,
 		"uniques": [
-			"Consumes [5] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
-			"Limited to [6] per Civilization",
-			"Destroyed when the city is captured",
+			"Consumes [10] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
+			"Instantly provides [75] [War Weariness] <upon declaring war with a major Civilization>",
 			"Can only be built <in [Annexed] cities>",
             ],
-		"requiredTech": "Agriculture"
 	},
 ]
