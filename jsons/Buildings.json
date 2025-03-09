@@ -2,6 +2,7 @@
 	{
 		"name": "War Weariness Value",
 		"cost": 1,
+		"isNationalWonder": true,
 		"replacementTextForUniques": "Triggers War Weariness mechanism",
 		"uniques": [
 			"Consumes [20] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
@@ -19,6 +20,7 @@
                         "Instantly consumes [5] [War Weariness] <upon declaring friendship> <when not at war> <for [5] turns> <for [All] Civilizations>",
                         "Instantly consumes [300] [War Weariness] <upon declaring a defensive pact> <when not at war> <for [All] Civilizations>",
 			"Destroyed when the city is captured",
+			"Moves to new capital when capital changes",
 			"Can only be built <in [Capital] cities>",
             ]
 	},
