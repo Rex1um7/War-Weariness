@@ -6,9 +6,9 @@
                         "[Military] units gain the [WWV] promotion <for [All] Civilizations>",
                         // Effect
                         // I
-                        "[-10]% [Production] <when above [700] [War Weariness]>",
+                        "[-10]% [Production] <when above [750] [War Weariness]>",
                         "[-10]% growth [in all cities] <when above [700] [War Weariness]>",
-                        "Rebel units may spawn <every [10] turns> <when between [700] and [1000] [War Weariness]>",
+                        "Rebel units may spawn <every [10] turns> <when between [750] and [1000] [War Weariness]>",
                         "[+5]% Unhappiness from [Population] [in all cities] <when above [700] [War Weariness]>",
                         // II
                         "[-10]% [Production] <when above [1000] [War Weariness]>",
