@@ -21,7 +21,6 @@
                         "Instantly consumes [300] [War Weariness] <upon declaring a defensive pact> <when not at war>",
 			"Destroyed when the city is captured",
 			"Moves to new capital when capital changes",
-			"Can only be built <in [Capital] cities>",
             ]
 	},
 	{
