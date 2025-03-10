@@ -3,11 +3,11 @@
 		"name": "WWV",
 		"uniques": [
      "Instantly provides [8] [War Weariness] <vs [{non-[Barbarian]}{Military}] units> <upon being defeated> <in [your] tiles> <when at war>",
-			"Instantly provides [15] [War Weariness] <upon being defeated> <in [Foreign Land] tiles> <when at war>",
+			"Instantly provides [20] [War Weariness] <upon being defeated> <in [Foreign Land] tiles> <when at war>",
 			"Instantly provides [150] [War Weariness] <upon conquering a city> <when at war>",
                       "Instantly consumes [10] [War Weariness] <upon defeating a [Military] unit> <in [your] tiles>",
-                       "Instantly consumes [6] [War Weariness] <upon defeating a [{non-[Barbarian]}{Military}] unit> <in [Foreign Land] tiles> <when at war>",
-			"Instantly consumes [6] [War Weariness] <upon defeating a [Military] unit> <in [Enemy] tiles>",
+                       "Instantly consumes [8] [War Weariness] <upon defeating a [{non-[Barbarian]}{Military}] unit> <in [Foreign Land] tiles> <when at war>",
+			"Instantly consumes [8] [War Weariness] <upon defeating a [Military] unit> <in [Enemy] tiles>",
 		]
     },
 ]
