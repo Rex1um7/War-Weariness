@@ -5,9 +5,9 @@
 		"isNationalWonder": true,
 		"replacementTextForUniques": "Triggers War Weariness mechanism",
 		"uniques": [
-			"Consumes [20] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
-			"Consumes [40] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war> <for [City-States] Civilizations>",
-			"Consumes [100] [War Weariness] <when above [500] [War Weariness]> <for [3] turns> <when not at war>",
+			"Consumes [50] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war>",
+			"Consumes [100] [War Weariness] <when above [25] [War Weariness]> <every [1] turns> <when not at war> <for [City-States] Civilizations>",
+			"Instantly consumes [100] [War Weariness] <when above [500] [War Weariness]> <for [3] turns> <when not at war>",
 			// Declaring War 
                         "Instantly provides [250] [War Weariness] <upon declaring war with a major Civilization>",
                         // At War
@@ -30,7 +30,7 @@
 		"maintenance": 3,
 		"uniques": [
 			"Consumes [10] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
-			"Instantly provides [75] [War Weariness] <upon declaring war with a major Civilization>",
+			"Instantly provides [50] [War Weariness] <upon declaring war with a major Civilization>",
 			"Can only be built <in [Annexed] cities>",
             ],
 	},
