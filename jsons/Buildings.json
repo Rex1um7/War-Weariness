@@ -24,12 +24,12 @@
 	},
 	{
 		"name": "War Memorial",
-		"hurryCostModifier": 50,		// same as courthouse 
 		"maintenance": 3,
 		"uniques": [
+			"Unbuildable",
+			"Can be purchased for [0] [Gold] [in annexed cities]",
 			"Consumes [10] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
 			"Instantly provides [40] [War Weariness] <upon declaring war with a major Civilization>",
-			"Can only be built <in [Annexed] cities>",
             ],
 	},
 ]
