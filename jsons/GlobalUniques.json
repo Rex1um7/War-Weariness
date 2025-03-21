@@ -4,7 +4,7 @@
                         "Gain a free [War Weariness Value] [in capital] <starting from the [Classical era]>",
                         // Military units 
                         "[Military] units gain the [WWV] promotion <for [All] Civilizations> <starting from the [Classical era]>",
-                        "All newly-trained [Military] units [in all cities] receive the [Fearless] promotion <when above [3000] [War Weariness]>",
+                        "All newly-trained [Military] units [in all cities] receive the [Fearless] promotion <when above [3000] [War Weariness]> <for [All] Civilizations>",
                         // Effect
                         // I
                         "[-10]% [Production] <when above [1000] [War Weariness]>",
