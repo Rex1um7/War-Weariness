@@ -31,6 +31,7 @@
 			"Unbuildable",
 			"Can be purchased for [0] [Gold] [in annexed cities]",
 			"Consumes [10] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when not at war>",
+			"Consumes [5] [War Weariness] <when above [0] [War Weariness]> <every [1] turns> <when at war>",
 			"Instantly provides [40] [War Weariness] <upon declaring war with a major Civilization>",
             ],
 	},
