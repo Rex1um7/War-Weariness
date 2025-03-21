@@ -15,7 +15,7 @@
 			"Instantly provides [50] [War Weariness] <upon conquering a city>",
                       "Instantly consumes [30] [War Weariness] <upon defeating a [non-[Barbarians]] unit> <in [Friendly Land] tiles>",
                        "Instantly consumes [20] [War Weariness] <upon defeating a [non-[Barbarians]] unit> <in [non-[Friendly Land]] tiles>",
-			"[+20]% Strength <with [33]% chance>",
+			"[+20]% Strength <when attacking> <with [33]% chance>",
 		]
     },
 ]
