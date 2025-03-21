@@ -1,9 +1,9 @@
 {
             "name": "Global uniques",   
             "uniques": [
-                        "Gain a free [War Weariness Value] [in capital]",
+                        "Gain a free [War Weariness Value] [in capital] <starting from the [Classical era]>",
                         // Military units 
-                        "[Military] units gain the [WWV] promotion <for [All] Civilizations>",
+                        "[Military] units gain the [WWV] promotion <for [All] Civilizations> <starting from the [Classical era]>",
                         // Effect
                         // I
                         "[-10]% [Production] <when above [1000] [War Weariness]>",
