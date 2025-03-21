@@ -4,6 +4,7 @@
                         "Gain a free [War Weariness Value] [in capital] <starting from the [Classical era]>",
                         // Military units 
                         "[Military] units gain the [WWV] promotion <for [All] Civilizations> <starting from the [Classical era]>",
+                        "All newly-trained [Military] units [in all cities] receive the [Fearless] promotion <when above [3000] [War Weariness]>",
                         // Effect
                         // I
                         "[-10]% [Production] <when above [1000] [War Weariness]>",
@@ -24,7 +25,7 @@
                         "[+10]% Unhappiness from [Population] [in all cities] <when above [3000] [War Weariness]>",
                         // IV
                         "[-15]% [Production] <when above [4000] [War Weariness]>",
-                        "Nullifies Growth [in all cities] <when above [4000] [War Weariness]>",
+                        "[-20]% growth [in all cities] <when above [3000] [War Weariness]>",
                         "Rebel units may spawn <every [1] turns> <when above [4000] [War Weariness]>",
                         "[-10]% Strength <when above [4000] [War Weariness]> <for [non-[Barbarian]] units>",
                         "[+15]% Unhappiness from [Population] [in all cities] <when above [4000] [War Weariness]>",
