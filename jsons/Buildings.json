@@ -12,7 +12,7 @@
 			"Instantly consumes [100] [War Weariness] <when above [500] [War Weariness]> <for [3] turns> <when not at war>",
 			// Declaring War 
                         "Instantly provides [250] [War Weariness] <upon declaring war with a major Civilization>",
-			"Instantly provides [50] [War Weariness] <every [1] turns> <upon declaring war with a major Civilization> <when at war>",
+			"Provides [50] [War Weariness] <every [1] turns> <upon declaring war with a major Civilization> <when at war>",
                         // Friendship 
                         "Consumes [25] [War Weariness] <upon declaring friendship> <when not at war> <for [1] turns>",
                         "Consumes [20] [War Weariness] <upon declaring friendship> <when not at war> <for [2] turns>",
