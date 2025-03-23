@@ -2,7 +2,7 @@
 	{
 		"name": "WWV",
 		"uniques": [
-     "Instantly provides [8] [War Weariness] <upon being defeated> <in [Friendly Land] tiles> <when at war>",
+     "Instantly provides [8] [War Weariness] <upon being defeated> <vs [non-[Barbarians]] units> <in [Friendly Land] tiles> <when at war>",
 			"Instantly provides [20] [War Weariness] <upon being defeated> <in [non-[Friendly Land]] tiles> <when at war>",
 			"Instantly provides [150] [War Weariness] <upon conquering a city>",
                       "Instantly consumes [12] [War Weariness] <upon defeating a [non-[Barbarians]] unit> <in [Friendly Land] tiles>",
