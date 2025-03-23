@@ -19,7 +19,7 @@
                         "Consumes [15] [War Weariness] <upon declaring friendship> <when not at war> <for [3] turns>",
                         "Consumes [10] [War Weariness] <upon declaring friendship> <when not at war> <for [4] turns>",
                         "Consumes [5] [War Weariness] <upon declaring friendship> <when not at war> <for [5] turns>",
-                        "Consumes [300] [War Weariness] <upon declaring a defensive pact> <when not at war>",
+                        "Instantly consumes [300] [War Weariness] <upon declaring a defensive pact>",
 			"Destroyed when the city is captured",
 			"Moves to new capital when capital changes",
             ]
