@@ -6,7 +6,6 @@
 		"replacementTextForUniques": "Triggers War Weariness mechanism",
 		"uniques": [
 			"Provides [-75] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when not at war>",
-			"Provides [50] [War Weariness] <for [10] turns> <upon declaring war with a major Civilization> <when at war>",
 			"Provides [-33] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when at war>",
 			"Provides [-150] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when not at war> <for [City-States] Civilizations>",
 			"Provides [-66] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when at war> <for [City-States] Civilizations>",
