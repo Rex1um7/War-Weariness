@@ -5,14 +5,14 @@
 		"isNationalWonder": true,
 		"replacementTextForUniques": "Triggers War Weariness mechanism",
 		"uniques": [
-			"Consumes [75] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when not at war>",
-			//"Instantly consumes [50] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when at war>",
-			"Consumes [150] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when not at war> <for [City-States] Civilizations>",
-			//"Instantly consumes [100] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when at war> <for [City-States] Civilizations>",
-			"Consumes [100] [War Weariness] <when above [500] [War Weariness]> <for [3] turns> <when not at war>",
+			"Provides [-75] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when not at war>",
+			"Provides [-33] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when at war>",
+			"Provides [-150] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when not at war> <for [City-States] Civilizations>",
+			"Provides [-66] [War Weariness] <when above [50] [War Weariness]> <every [1] turns> <when at war> <for [City-States] Civilizations>",
+			"Provides [-100] [War Weariness] <when above [500] [War Weariness]> <for [3] turns> <when not at war>",
 			// Declaring War 
                         "Instantly provides [250] [War Weariness] <upon declaring war with a major Civilization>",
-			"Provides [50] [War Weariness] <every [1] turns> <upon declaring war with a major Civilization> <when at war>",
+			"Provides [50] [War Weariness] <for [10] turns> <upon declaring war with a major Civilization> <when at war>",
                         // Friendship 
                         "Consumes [25] [War Weariness] <upon declaring friendship> <when not at war> <for [1] turns>",
                         "Consumes [20] [War Weariness] <upon declaring friendship> <when not at war> <for [2] turns>",
