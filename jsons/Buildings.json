@@ -37,7 +37,6 @@
 	{
 		"name": "War Wariness Debug",
 		"uniques": [
-			"Unbuildable",
 			"Only available <for [Human Player] Civilizations>",
 			"Can be purchased for [0] [Gold] [in capital]",
 			"Instantly provides [-99999] [War Weariness]",
