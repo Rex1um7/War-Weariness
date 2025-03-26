@@ -36,6 +36,7 @@
 	},
 	{
 		"name": "War Wariness Debug",
+		"maintenance": 0,
 		"uniques": [
 			"Only available <for [Human Player] Civilizations>",
 			"Can be purchased for [0] [Gold] [in capital]",
