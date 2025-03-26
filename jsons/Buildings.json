@@ -40,7 +40,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": [
-			"Only available <for [Human Player] Civilizations>",
+			"Only available <for [Human player] Civilizations>",
 			"Can be purchased for [0] [Gold] [in capital]",
 			"Instantly provides [-99999] [War Weariness]",
             ],
