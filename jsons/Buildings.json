@@ -34,7 +34,7 @@
 			"Instantly provides [75] [War Weariness] <upon declaring war with a major Civilization>",
             ],
 	},
-	{
+	/*{
 		"name": "War Wariness Debug",
 		"cost": 1,
 		"hurryCostModifier": 25,
@@ -44,5 +44,5 @@
 			"Can be purchased for [0] [Gold] [in capital]",
 			"Instantly provides [-99999] [War Weariness]",
             ],
-	},
+	},*/
 ]
